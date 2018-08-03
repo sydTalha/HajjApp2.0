@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289897975223",
+    "firebase_url": "https://hajjhackathon-45ac1.firebaseio.com",
+    "project_id": "hajjhackathon-45ac1",
+    "storage_bucket": "hajjhackathon-45ac1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289897975223:android:29957ba8f7140573",
+        "android_client_info": {
+          "package_name": "com.hajj.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289897975223-aj08imrc5gp3mc319mv4i11rtctsssjb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hajj.hackathon",
+            "certificate_hash": "70de2d934786e6bd51311022f1b0569a900bd489"
+          }
+        },
+        {
+          "client_id": "289897975223-pokok5jpnbk9gt9dcs5n02hcikunph58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-sB5p7R400LE3YxV3q7UpPgMgZYZ7g44"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289897975223-pokok5jpnbk9gt9dcs5n02hcikunph58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

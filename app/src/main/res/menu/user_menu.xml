@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Crowd Warning"
+        android:id="@+id/crowd_warning"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_account_alert_grey600_24dp"
+        />
+    <item android:title="Alert"
+        android:id="@+id/alert"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_alarm_light_grey600_24dp"
+        />
+    <item android:title="Vehicle Tracking"
+        android:id="@+id/vehicle_tracking"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_subway_variant_grey600_24dp"
+        />
+</menu>
